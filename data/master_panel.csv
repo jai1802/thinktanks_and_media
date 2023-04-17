@@ -123,21 +123,21 @@
 121,Beacon Center of Tennessee,2015,NYT,1,0.989162,11,1
 122,Beacon Center of Tennessee,2016,NYT,1,1.48489,12,1
 123,Beacon Hill Institute,2017,WP,2,0.163069,26,0
-124,Belfer Center for Science and International Affairs,2014,NYT,10,0.0,41,0
-125,Belfer Center for Science and International Affairs,2014,WP,1,0.0,41,0
-126,Belfer Center for Science and International Affairs,2014,WSJ,1,0.0,41,0
-127,Belfer Center for Science and International Affairs,2015,NYT,4,0.0,42,0
-128,Belfer Center for Science and International Affairs,2015,WP,6,0.0,42,0
-129,Belfer Center for Science and International Affairs,2015,WSJ,4,0.0,42,0
-130,Belfer Center for Science and International Affairs,2016,NYT,2,0.0,43,0
-131,Belfer Center for Science and International Affairs,2016,WP,5,0.0,43,0
-132,Belfer Center for Science and International Affairs,2016,WSJ,1,0.0,43,0
-133,Belfer Center for Science and International Affairs,2017,NYT,11,0.0,44,0
-134,Belfer Center for Science and International Affairs,2017,WP,12,0.0,44,0
-135,Belfer Center for Science and International Affairs,2017,WSJ,1,0.0,44,0
-136,Belfer Center for Science and International Affairs,2018,NYT,2,0.0,45,0
-137,Belfer Center for Science and International Affairs,2018,WP,5,0.0,45,0
-138,Belfer Center for Science and International Affairs,2018,WSJ,4,0.0,45,0
+124,Belfer Center for Science and International Affairs,2014,NYT,10,4.351888,41,0
+125,Belfer Center for Science and International Affairs,2014,WP,1,4.351888,41,0
+126,Belfer Center for Science and International Affairs,2014,WSJ,1,4.351888,41,0
+127,Belfer Center for Science and International Affairs,2015,NYT,4,4.362669,42,0
+128,Belfer Center for Science and International Affairs,2015,WP,6,4.362669,42,0
+129,Belfer Center for Science and International Affairs,2015,WSJ,4,4.362669,42,0
+130,Belfer Center for Science and International Affairs,2016,NYT,2,4.569121,43,0
+131,Belfer Center for Science and International Affairs,2016,WP,5,4.569121,43,0
+132,Belfer Center for Science and International Affairs,2016,WSJ,1,4.569121,43,0
+133,Belfer Center for Science and International Affairs,2017,NYT,11,4.548092,44,0
+134,Belfer Center for Science and International Affairs,2017,WP,12,4.548092,44,0
+135,Belfer Center for Science and International Affairs,2017,WSJ,1,4.548092,44,0
+136,Belfer Center for Science and International Affairs,2018,NYT,2,4.744707,45,0
+137,Belfer Center for Science and International Affairs,2018,WP,5,4.744707,45,0
+138,Belfer Center for Science and International Affairs,2018,WSJ,4,4.744707,45,0
 139,Berggruen Institute,2014,NYT,1,1.052448,4,0
 140,Berggruen Institute,2015,NYT,1,3.182357,5,0
 141,Berggruen Institute,2016,NYT,1,7.864358,6,0
@@ -298,9 +298,9 @@
 296,Center for Immigration Studies,2018,NYT,25,3.416896,33,1
 297,Center for Immigration Studies,2018,WP,28,3.416896,33,1
 298,Center for Immigration Studies,2018,WSJ,3,3.416896,33,1
-299,Center for International Development,2016,NYT,1,0.0,39,0
-300,Center for International Development,2017,NYT,2,0.0,40,0
-301,Center for International Development,2017,WP,2,0.0,40,0
+299,Center for International Development,2016,NYT,1,4.569121,39,0
+300,Center for International Development,2017,NYT,2,4.548092,40,0
+301,Center for International Development,2017,WP,2,4.548092,40,0
 302,Center for International Policy,2014,NYT,4,4.602711,39,0
 303,Center for International Policy,2014,WP,7,4.602711,39,0
 304,Center for International Policy,2014,WSJ,3,4.602711,39,0
@@ -316,14 +316,14 @@
 314,Center for International Policy,2018,NYT,1,4.721624,43,0
 315,Center for International Policy,2018,WP,6,4.721624,43,0
 316,Center for International Policy,2018,WSJ,1,4.721624,43,0
-317,Center for International Security and Cooperation,2016,NYT,2,0.0,33,0
-318,Center for International Security and Cooperation,2016,WP,1,0.0,33,0
-319,Center for International Security and Cooperation,2017,NYT,3,0.0,34,0
-320,Center for International Security and Cooperation,2017,WP,2,0.0,34,0
-321,Center for International Security and Cooperation,2017,WSJ,1,0.0,34,0
-322,Center for International Security and Cooperation,2018,NYT,5,0.0,35,0
-323,Center for International Security and Cooperation,2018,WP,5,0.0,35,0
-324,Center for International Security and Cooperation,2018,WSJ,1,0.0,35,0
+317,Center for International Security and Cooperation,2016,NYT,2,4.569121,33,0
+318,Center for International Security and Cooperation,2016,WP,1,4.569121,33,0
+319,Center for International Security and Cooperation,2017,NYT,3,4.548092,34,0
+320,Center for International Security and Cooperation,2017,WP,2,4.548092,34,0
+321,Center for International Security and Cooperation,2017,WSJ,1,4.548092,34,0
+322,Center for International Security and Cooperation,2018,NYT,5,4.744707,35,0
+323,Center for International Security and Cooperation,2018,WP,5,4.744707,35,0
+324,Center for International Security and Cooperation,2018,WSJ,1,4.744707,35,0
 325,Center for Media and Democracy,2014,WSJ,1,1.007545,21,0
 326,Center for Media and Democracy,2016,NYT,1,1.796051,23,0
 327,Center for Media and Democracy,2016,WP,1,1.796051,23,0
@@ -391,9 +391,9 @@
 389,Center for Strategic and International Studies,2018,NYT,97,45.841469,56,0
 390,Center for Strategic and International Studies,2018,WP,133,45.841469,56,0
 391,Center for Strategic and International Studies,2018,WSJ,55,45.841469,56,0
-392,Center for Transatlantic Relations,2014,WP,1,0.0,13,0
-393,Center for Transatlantic Relations,2018,NYT,1,0.0,17,0
-394,Center for Transatlantic Relations,2018,WP,1,0.0,17,0
+392,Center for Transatlantic Relations,2014,WP,1,4.351888,13,0
+393,Center for Transatlantic Relations,2018,NYT,1,4.744707,17,0
+394,Center for Transatlantic Relations,2018,WP,1,4.744707,17,0
 395,Center for a Just Society,2015,WP,1,0.0,11,1
 396,Center for a New American Security,2014,NYT,11,9.157223,7,0
 397,Center for a New American Security,2014,WP,12,9.157223,7,0
@@ -534,15 +534,15 @@
 532,Discovery Institute,2017,WSJ,2,5.886423,27,1
 533,Discovery Institute,2018,WP,1,6.303202,28,1
 534,Drum Major Institute,2017,NYT,1,0.304669,56,0
-535,Earth Institute,2014,NYT,6,0.0,19,0
-536,Earth Institute,2014,WSJ,1,0.0,19,0
-537,Earth Institute,2015,NYT,5,0.0,20,0
-538,Earth Institute,2015,WP,4,0.0,20,0
-539,Earth Institute,2016,NYT,3,0.0,21,0
-540,Earth Institute,2016,WP,1,0.0,21,0
-541,Earth Institute,2017,NYT,4,0.0,22,0
-542,Earth Institute,2017,WP,2,0.0,22,0
-543,Earth Institute,2018,WP,1,0.0,23,0
+535,Earth Institute,2014,NYT,6,4.351888,19,0
+536,Earth Institute,2014,WSJ,1,4.351888,19,0
+537,Earth Institute,2015,NYT,5,4.362669,20,0
+538,Earth Institute,2015,WP,4,4.362669,20,0
+539,Earth Institute,2016,NYT,3,4.569121,21,0
+540,Earth Institute,2016,WP,1,4.569121,21,0
+541,Earth Institute,2017,NYT,4,4.548092,22,0
+542,Earth Institute,2017,WP,2,4.548092,22,0
+543,Earth Institute,2018,WP,1,4.744707,23,0
 544,EastWest Institute,2016,WSJ,2,7.626923,36,0
 545,EastWest Institute,2017,NYT,1,8.643444,37,0
 546,EastWest Institute,2017,WSJ,1,8.643444,37,0
@@ -656,13 +656,13 @@
 654,German Marshall Fund of the United States,2018,NYT,35,28.626412,46,0
 655,German Marshall Fund of the United States,2018,WP,27,28.626412,46,0
 656,German Marshall Fund of the United States,2018,WSJ,4,28.626412,46,0
-657,Global Development and Environment Institute,2014,WP,1,0.0,21,0
-658,Global Development and Environment Institute,2016,NYT,1,0.0,23,0
-659,GlobalSecurity.org,2014,WP,1,0.0,14,0
-660,GlobalSecurity.org,2014,WSJ,1,0.0,14,0
-661,GlobalSecurity.org,2015,WP,3,0.0,15,0
-662,GlobalSecurity.org,2016,NYT,1,0.0,16,0
-663,GlobalSecurity.org,2017,NYT,2,0.0,17,0
+657,Global Development and Environment Institute,2014,WP,1,4.351888,21,0
+658,Global Development and Environment Institute,2016,NYT,1,4.569121,23,0
+659,GlobalSecurity.org,2014,WP,1,0.5,14,0
+660,GlobalSecurity.org,2014,WSJ,1,0.5,14,0
+661,GlobalSecurity.org,2015,WP,3,0.5,15,0
+662,GlobalSecurity.org,2016,NYT,1,0.5,16,0
+663,GlobalSecurity.org,2017,NYT,2,0.5,17,0
 664,Goldwater Institute,2014,WP,3,5.338305,26,1
 665,Goldwater Institute,2014,WSJ,3,5.338305,26,1
 666,Goldwater Institute,2015,NYT,2,5.616214,27,1
@@ -914,7 +914,7 @@
 912,Kansas Policy Institute,2015,WSJ,1,0.897883,19,1
 913,Kansas Policy Institute,2016,NYT,1,0.928913,20,1
 914,Kansas Policy Institute,2017,NYT,1,0.763035,21,1
-915,Keck Institute for Space Studies,2014,NYT,1,0.0,6,0
+915,Keck Institute for Space Studies,2014,NYT,1,4.351888,6,0
 916,Levy Economics Institute,2015,WSJ,1,0.0,29,0
 917,Levy Economics Institute,2018,WP,1,0.0,32,0
 918,Lexington Institute,2014,NYT,7,1.996703,16,1
@@ -1044,12 +1044,12 @@
 1042,Milken Institute,2018,NYT,8,54.83616,27,0
 1043,Milken Institute,2018,WP,10,54.83616,27,0
 1044,Milken Institute,2018,WSJ,6,54.83616,27,0
-1045,National Association of Scholars,2015,WP,1,0.0,28,1
-1046,National Association of Scholars,2015,WSJ,2,0.0,28,1
-1047,National Association of Scholars,2016,NYT,1,0.0,29,1
-1048,National Association of Scholars,2016,WSJ,2,0.0,29,1
-1049,National Association of Scholars,2017,NYT,2,0.0,30,1
-1050,National Association of Scholars,2018,NYT,1,0.0,31,1
+1045,National Association of Scholars,2015,WP,1,4.362669,28,1
+1046,National Association of Scholars,2015,WSJ,2,4.362669,28,1
+1047,National Association of Scholars,2016,NYT,1,4.569121,29,1
+1048,National Association of Scholars,2016,WSJ,2,4.569121,29,1
+1049,National Association of Scholars,2017,NYT,2,4.548092,30,1
+1050,National Association of Scholars,2018,NYT,1,4.744707,31,1
 1051,National Bureau of Asian Research,2014,NYT,17,5.505058,25,0
 1052,National Bureau of Asian Research,2014,WP,4,5.505058,25,0
 1053,National Bureau of Asian Research,2014,WSJ,2,5.505058,25,0
@@ -1323,18 +1323,18 @@
 1321,Resources for the Future,2018,WSJ,2,14.303137,66,0
 1322,Ripon Society,2014,WP,1,1.955099,52,1
 1323,Ripon Society,2016,NYT,1,2.958556,54,1
-1324,Rockefeller Institute of Government,2014,NYT,1,0.0,33,0
-1325,Rockefeller Institute of Government,2014,WP,1,0.0,33,0
-1326,Rockefeller Institute of Government,2014,WSJ,1,0.0,33,0
-1327,Rockefeller Institute of Government,2015,NYT,2,0.0,34,0
-1328,Rockefeller Institute of Government,2015,WSJ,4,0.0,34,0
-1329,Rockefeller Institute of Government,2016,NYT,2,0.0,35,0
-1330,Rockefeller Institute of Government,2016,WP,2,0.0,35,0
-1331,Rockefeller Institute of Government,2016,WSJ,2,0.0,35,0
-1332,Rockefeller Institute of Government,2017,WP,1,0.0,36,0
-1333,Rockefeller Institute of Government,2017,WSJ,1,0.0,36,0
-1334,Rockefeller Institute of Government,2018,WP,3,0.0,37,0
-1335,Rockefeller Institute of Government,2018,WSJ,3,0.0,37,0
+1324,Rockefeller Institute of Government,2014,NYT,1,4.351888,33,0
+1325,Rockefeller Institute of Government,2014,WP,1,4.351888,33,0
+1326,Rockefeller Institute of Government,2014,WSJ,1,4.351888,33,0
+1327,Rockefeller Institute of Government,2015,NYT,2,4.362669,34,0
+1328,Rockefeller Institute of Government,2015,WSJ,4,4.362669,34,0
+1329,Rockefeller Institute of Government,2016,NYT,2,4.569121,35,0
+1330,Rockefeller Institute of Government,2016,WP,2,4.569121,35,0
+1331,Rockefeller Institute of Government,2016,WSJ,2,4.569121,35,0
+1332,Rockefeller Institute of Government,2017,WP,1,4.548092,36,0
+1333,Rockefeller Institute of Government,2017,WSJ,1,4.548092,36,0
+1334,Rockefeller Institute of Government,2018,WP,3,4.744707,37,0
+1335,Rockefeller Institute of Government,2018,WSJ,3,4.744707,37,0
 1336,Roosevelt Institute,2014,NYT,1,5.984271,27,0
 1337,Roosevelt Institute,2014,WP,1,5.984271,27,0
 1338,Roosevelt Institute,2014,WSJ,1,5.984271,27,0

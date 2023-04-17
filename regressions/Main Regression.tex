@@ -1,0 +1,31 @@
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\setlength\tabcolsep{17pt}
+\begin{tabular}{@{\extracolsep{7pt}}lcccc}
+\toprule
+                    &\multicolumn{2}{c}{Number of Citations}    \\\cmidrule(lr){2-3}
+                    &\multicolumn{1}{c}{(1)}         &\multicolumn{1}{c}{(2)}         \\
+\midrule
+$\sqrt{Age}$        &      -8.105         &                     \\
+                    &   (4.51468)         &                     \\
+\addlinespace
+$\log{Expenses}$    &       3.089\sym{**} &                     \\
+                    &   (1.03230)         &                     \\
+\addlinespace
+\large $\gamma_{2014}$&      -0.839         &      -1.027         \\
+                    &   (1.49949)         &   (1.50256)         \\
+\addlinespace
+\large $\gamma_{2015}$&     -0.0435         &      -0.137         \\
+                    &   (1.49529)         &   (1.49308)         \\
+\addlinespace
+\large $\gamma_{2017}$&       0.396         &       0.478         \\
+                    &   (1.77824)         &   (1.77525)         \\
+\addlinespace
+\large $\gamma_{2018}$&       0.555         &       0.555         \\
+                    &   (1.80230)         &   (1.81231)         \\
+\midrule
+Controls            &         Yes         &          No         \\
+Think Tank FE       &         Yes         &         Yes         \\
+Publication $\times$ Year FE&         Yes         &         Yes         \\
+N                   &        1577         &        1577         \\
+\bottomrule
+\end{tabular}

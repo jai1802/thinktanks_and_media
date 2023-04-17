@@ -1,0 +1,311 @@
+,thinktank,year,pub,num_cites,expenses,age,con_lib
+0,American Action Forum,2014,WSJ,1,4.878999,5,1
+1,American Action Forum,2015,NYT,1,5.145811,6,1
+2,American Action Forum,2015,WP,1,5.145811,6,1
+3,American Action Forum,2017,WP,1,4.863097,8,1
+4,American Action Forum,2018,NYT,1,3.94249,9,1
+5,American Enterprise Institute,2014,NYT,2,35.435906,76,1
+6,American Enterprise Institute,2014,WSJ,1,35.435906,76,1
+7,American Enterprise Institute,2015,NYT,2,38.611315,77,1
+8,American Enterprise Institute,2015,WP,3,38.611315,77,1
+9,American Enterprise Institute,2016,NYT,1,46.953435,78,1
+10,American Enterprise Institute,2016,WP,2,46.953435,78,1
+11,American Enterprise Institute,2017,NYT,6,55.822303,79,1
+12,American Enterprise Institute,2017,WP,5,55.822303,79,1
+13,American Enterprise Institute,2017,WSJ,2,55.822303,79,1
+14,American Enterprise Institute,2018,NYT,3,50.853733,80,1
+15,American Enterprise Institute,2018,WP,1,50.853733,80,1
+16,Asia Society,2014,WSJ,1,29.621738,58,0
+17,Aspen Institute,2014,WP,1,91.36283,65,0
+18,Aspen Institute,2015,WP,1,101.379117,66,0
+19,Aspen Institute,2017,NYT,2,136.995834,68,0
+20,Aspen Institute,2018,WSJ,1,143.100716,69,0
+21,Atlantic Council,2016,NYT,2,24.021033,55,0
+22,Atlantic Council,2017,NYT,2,27.655974,56,0
+23,Atlantic Council,2018,WP,1,28.215782,57,0
+24,Atlantic Council,2018,WSJ,2,28.215782,57,0
+25,Belfer Center for Science and International Affairs,2017,NYT,1,4.548092,44,0
+26,Bipartisan Policy Center,2014,WSJ,1,23.009557,7,0
+27,Bipartisan Policy Center,2017,NYT,3,20.321287,10,0
+28,Bipartisan Policy Center,2018,WP,1,20.319693,11,0
+29,Brookings Institution,2014,NYT,4,99.568985,98,0
+30,Brookings Institution,2014,WP,4,99.568985,98,0
+31,Brookings Institution,2014,WSJ,1,99.568985,98,0
+32,Brookings Institution,2015,NYT,3,107.926103,99,0
+33,Brookings Institution,2015,WP,5,107.926103,99,0
+34,Brookings Institution,2015,WSJ,3,107.926103,99,0
+35,Brookings Institution,2016,NYT,2,104.635286,100,0
+36,Brookings Institution,2016,WP,4,104.635286,100,0
+37,Brookings Institution,2016,WSJ,2,104.635286,100,0
+38,Brookings Institution,2017,NYT,9,100.059312,101,0
+39,Brookings Institution,2017,WP,5,100.059312,101,0
+40,Brookings Institution,2017,WSJ,2,100.059312,101,0
+41,Brookings Institution,2018,NYT,1,98.957742,102,0
+42,Brookings Institution,2018,WP,4,98.957742,102,0
+43,Carnegie Endowment for International Peace,2015,WP,1,33.996712,105,0
+44,Cato Institute,2014,NYT,1,24.538565,37,1
+45,Cato Institute,2014,WP,1,24.538565,37,1
+46,Cato Institute,2014,WSJ,1,24.538565,37,1
+47,Cato Institute,2015,NYT,3,28.246157,38,1
+48,Cato Institute,2016,NYT,2,29.162114,39,1
+49,Cato Institute,2016,WP,2,29.162114,39,1
+50,Cato Institute,2017,NYT,1,30.150105,40,1
+51,Cato Institute,2017,WP,5,30.150105,40,1
+52,Cato Institute,2017,WSJ,1,30.150105,40,1
+53,Center for American Progress,2014,NYT,4,42.425026,11,0
+54,Center for American Progress,2014,WSJ,1,42.425026,11,0
+55,Center for American Progress,2015,NYT,3,47.352861,12,0
+56,Center for American Progress,2015,WSJ,3,47.352861,12,0
+57,Center for American Progress,2016,NYT,1,40.435643,13,0
+58,Center for American Progress,2016,WSJ,1,40.435643,13,0
+59,Center for American Progress,2017,NYT,6,46.765901,14,0
+60,Center for American Progress,2018,WP,5,43.779143,15,0
+61,Center for Automotive Research,2014,NYT,3,4.691498,11,0
+62,Center for Automotive Research,2014,WP,5,4.691498,11,0
+63,Center for Automotive Research,2014,WSJ,10,4.691498,11,0
+64,Center for Automotive Research,2015,NYT,4,5.095172,12,0
+65,Center for Automotive Research,2015,WP,14,5.095172,12,0
+66,Center for Automotive Research,2015,WSJ,7,5.095172,12,0
+67,Center for Automotive Research,2016,NYT,3,5.157656,13,0
+68,Center for Automotive Research,2016,WP,1,5.157656,13,0
+69,Center for Automotive Research,2016,WSJ,17,5.157656,13,0
+70,Center for Automotive Research,2017,NYT,1,4.765147,14,0
+71,Center for Automotive Research,2017,WP,7,4.765147,14,0
+72,Center for Automotive Research,2017,WSJ,11,4.765147,14,0
+73,Center for Automotive Research,2018,NYT,2,4.744707,15,0
+74,Center for Automotive Research,2018,WP,1,4.744707,15,0
+75,Center for Automotive Research,2018,WSJ,10,4.744707,15,0
+76,Center for Economic and Policy Research,2015,WSJ,2,1.792137,16,0
+77,Center for Economic and Policy Research,2017,WP,1,1.990467,18,0
+78,Center for Immigration Studies,2015,WSJ,1,2.670635,30,1
+79,Center for Immigration Studies,2018,NYT,1,3.416896,33,1
+80,Center for International Security and Cooperation,2016,WP,1,4.569121,33,0
+81,Center for Public Integrity,2014,NYT,1,8.413507,25,0
+82,Center for Public Integrity,2014,WP,1,8.413507,25,0
+83,Center for Public Integrity,2014,WSJ,1,8.413507,25,0
+84,Center for Public Integrity,2015,WP,1,9.653457,26,0
+85,Center for Public Integrity,2017,NYT,1,5.208118,28,0
+86,Center for Security Policy,2014,WP,1,3.503654,26,1
+87,Center for Security Policy,2018,NYT,1,4.858451,30,1
+88,Center for Security Policy,2018,WP,1,4.858451,30,1
+89,Center for Strategic and International Studies,2017,NYT,1,46.332597,55,0
+90,Center for Strategic and International Studies,2017,WP,2,46.332597,55,0
+91,Center for Strategic and International Studies,2018,WP,2,45.841469,56,0
+92,Center for a New American Security,2015,WP,2,9.157223,8,0
+93,Center for a New American Security,2016,WP,1,9.157223,9,0
+94,Center for a New American Security,2018,WP,1,10.589419,11,0
+95,Center on Budget and Policy Priorities,2014,WP,3,30.948012,33,0
+96,Center on Budget and Policy Priorities,2015,NYT,4,33.807175,34,0
+97,Center on Budget and Policy Priorities,2015,WSJ,2,33.807175,34,0
+98,Center on Budget and Policy Priorities,2016,NYT,3,28.721352,35,0
+99,Center on Budget and Policy Priorities,2016,WP,1,28.721352,35,0
+100,Center on Budget and Policy Priorities,2016,WSJ,2,28.721352,35,0
+101,Center on Budget and Policy Priorities,2017,NYT,8,33.287285,36,0
+102,Center on Budget and Policy Priorities,2017,WP,5,33.287285,36,0
+103,Center on Budget and Policy Priorities,2017,WSJ,1,33.287285,36,0
+104,Center on Budget and Policy Priorities,2018,NYT,2,36.546328,37,0
+105,Center on Budget and Policy Priorities,2018,WP,1,36.546328,37,0
+106,Chicago Council on Global Affairs,2017,WP,1,16.80657,95,0
+107,Claremont Institute,2015,NYT,1,5.533681,36,1
+108,Committee for a Responsible Federal Budget,2014,NYT,1,2.646618,33,0
+109,Committee for a Responsible Federal Budget,2014,WP,1,2.646618,33,0
+110,Committee for a Responsible Federal Budget,2014,WSJ,1,2.646618,33,0
+111,Committee for a Responsible Federal Budget,2015,NYT,1,3.385499,34,0
+112,Committee for a Responsible Federal Budget,2015,WP,1,3.385499,34,0
+113,Committee for a Responsible Federal Budget,2016,WSJ,3,3.227336,35,0
+114,Committee for a Responsible Federal Budget,2017,NYT,5,3.038669,36,0
+115,Committee for a Responsible Federal Budget,2017,WP,2,3.038669,36,0
+116,Committee for a Responsible Federal Budget,2017,WSJ,3,3.038669,36,0
+117,Committee for a Responsible Federal Budget,2018,NYT,1,3.287833,37,0
+118,Competitive Enterprise Institute,2014,NYT,2,6.427052,30,1
+119,Competitive Enterprise Institute,2014,WP,1,6.427052,30,1
+120,Competitive Enterprise Institute,2015,NYT,1,7.35691,31,1
+121,Competitive Enterprise Institute,2017,NYT,2,8.354004,33,1
+122,Competitive Enterprise Institute,2018,WP,1,6.797063,34,1
+123,Council on Foreign Relations,2014,NYT,2,64.7229,93,0
+124,Council on Foreign Relations,2014,WP,3,64.7229,93,0
+125,Council on Foreign Relations,2015,WP,1,64.757,94,0
+126,Council on Foreign Relations,2016,WSJ,1,69.9312,95,0
+127,Council on Foreign Relations,2017,NYT,1,69.2628,96,0
+128,Demos,2016,WSJ,1,8.7529,23,0
+129,Discovery Institute,2017,WSJ,2,5.886423,27,1
+130,Economic Policy Institute,2015,NYT,1,5.550991,29,0
+131,Economic Policy Institute,2017,WSJ,1,6.502386,31,0
+132,Economic Policy Institute,2018,WP,2,6.699574,32,0
+133,Federation for American Immigration Reform,2014,WSJ,1,6.336441,35,0
+134,Federation for American Immigration Reform,2016,NYT,1,11.246727,37,0
+135,Federation for American Immigration Reform,2016,WSJ,2,11.246727,37,0
+136,Federation for American Immigration Reform,2017,WP,1,8.57589,38,0
+137,Federation for American Immigration Reform,2017,WSJ,1,8.57589,38,0
+138,Federation for American Immigration Reform,2018,WSJ,2,10.902278,39,0
+139,German Marshall Fund of the United States,2015,WSJ,1,31.830116,43,0
+140,Goldwater Institute,2015,WP,1,5.616214,27,1
+141,Goldwater Institute,2016,WP,1,5.504511,28,1
+142,Goldwater Institute,2017,WP,1,6.186952,29,1
+143,Goldwater Institute,2017,WSJ,1,6.186952,29,1
+144,Guttmacher Institute,2014,NYT,5,17.443509,46,0
+145,Guttmacher Institute,2015,NYT,3,19.285598,47,0
+146,Guttmacher Institute,2015,WP,1,19.285598,47,0
+147,Guttmacher Institute,2015,WSJ,2,19.285598,47,0
+148,Guttmacher Institute,2016,NYT,5,22.885624,48,0
+149,Guttmacher Institute,2016,WP,1,22.885624,48,0
+150,Guttmacher Institute,2016,WSJ,1,22.885624,48,0
+151,Guttmacher Institute,2017,NYT,3,24.621255,49,0
+152,Guttmacher Institute,2017,WP,3,24.621255,49,0
+153,Hastings Center,2014,WP,1,3.222097,45,0
+154,Hastings Center,2014,WSJ,2,3.222097,45,0
+155,Hastings Center,2015,WP,1,3.412332,46,0
+156,Hastings Center,2016,WSJ,1,3.511435,47,0
+157,Hastings Center,2017,WP,1,3.523975,48,0
+158,Hoover Institution,2014,NYT,1,47.2,95,1
+159,Hoover Institution,2016,NYT,2,63.6,97,1
+160,Information Technology and Innovation Foundation,2014,WP,1,3.198863,6,0
+161,Institute for New Economic Thinking,2016,NYT,1,7.781121,7,0
+162,Institute for Policy Studies,2014,WP,1,3.487435,51,0
+163,Institute for Policy Studies,2016,WSJ,1,3.889771,53,0
+164,Institute for Policy Studies,2018,WP,1,4.417403,55,0
+165,Institute on Taxation and Economic Policy,2017,WP,1,1.804899,37,0
+166,Institute on Taxation and Economic Policy,2018,WP,2,2.130137,38,0
+167,Inter-American Dialogue,2017,WP,2,4.273907,24,0
+168,International Crisis Group,2015,NYT,1,18.082772,20,0
+169,International Crisis Group,2016,NYT,1,18.075452,21,0
+170,J Street,2018,NYT,1,2.763809,11,0
+171,Jamestown Foundation,2018,WP,1,1.149704,34,1
+172,Joint Center for Political and Economic Studies,2017,NYT,1,1.277399,47,0
+173,Levy Economics Institute,2018,WP,1,0.0,32,0
+174,Lincoln Institute of Land Policy,2015,WSJ,1,20.846995,69,0
+175,Manhattan Institute for Policy Research,2014,NYT,1,13.949343,36,1
+176,Manhattan Institute for Policy Research,2014,WSJ,1,13.949343,36,1
+177,Manhattan Institute for Policy Research,2015,WSJ,3,15.638756,37,1
+178,Manhattan Institute for Policy Research,2016,WSJ,1,17.858627,38,1
+179,Manhattan Institute for Policy Research,2017,WSJ,1,18.832278,39,1
+180,Manhattan Institute for Policy Research,2018,NYT,1,19.691658,40,1
+181,Mercatus Center at George Mason University,2015,NYT,1,19.205513,35,1
+182,Mercatus Center at George Mason University,2017,WP,2,27.582187,37,1
+183,Mercatus Center at George Mason University,2018,WP,3,28.875237,38,1
+184,Mercatus Center at George Mason University,2018,WSJ,1,28.875237,38,1
+185,Middle East Forum,2015,WSJ,1,3.472821,25,1
+186,Middle East Institute,2015,WP,1,4.086019,69,0
+187,Middle East Institute,2017,NYT,1,5.814897,71,0
+188,Migration Policy Institute,2014,NYT,1,5.954465,13,0
+189,Migration Policy Institute,2014,WSJ,1,5.954465,13,0
+190,Migration Policy Institute,2015,NYT,1,5.446196,14,0
+191,Migration Policy Institute,2016,NYT,1,5.587423,15,0
+192,Migration Policy Institute,2017,NYT,1,6.001797,16,0
+193,Migration Policy Institute,2017,WP,1,6.001797,16,0
+194,Milken Institute,2015,NYT,1,36.405927,24,0
+195,Milken Institute,2017,NYT,1,45.611741,26,0
+196,Milken Institute,2017,WP,1,45.611741,26,0
+197,Milken Institute,2017,WSJ,1,45.611741,26,0
+198,Milken Institute,2018,NYT,1,54.83616,27,0
+199,National Bureau of Economic Research,2014,NYT,1,35.749616,94,0
+200,National Bureau of Economic Research,2015,NYT,3,32.979628,95,0
+201,National Bureau of Economic Research,2015,WSJ,3,32.979628,95,0
+202,National Bureau of Economic Research,2016,NYT,6,33.988867,96,0
+203,National Bureau of Economic Research,2016,WP,1,33.988867,96,0
+204,National Bureau of Economic Research,2016,WSJ,1,33.988867,96,0
+205,National Bureau of Economic Research,2017,NYT,2,39.456834,97,0
+206,National Bureau of Economic Research,2018,NYT,1,40.635874,98,0
+207,National Endowment for Democracy,2014,NYT,2,154.590867,31,0
+208,National Endowment for Democracy,2017,NYT,1,186.489661,34,0
+209,National Endowment for Democracy,2018,NYT,1,188.593811,35,0
+210,National Policy Institute,2017,WSJ,1,0.180107,12,1
+211,New America,2014,NYT,1,21.53924,15,0
+212,New America,2014,WSJ,2,21.53924,15,0
+213,New America,2015,WP,2,25.649786,16,0
+214,New America,2016,NYT,1,37.245071,17,0
+215,New America,2016,WP,1,37.245071,17,0
+216,New America,2016,WSJ,1,37.245071,17,0
+217,New America,2017,WP,1,36.069449,18,0
+218,New America,2018,NYT,1,38.460621,19,0
+219,New America,2018,WP,2,38.460621,19,0
+220,New Democrat Network,2014,WP,1,0.680623,18,0
+221,Open Society Foundations,2017,NYT,1,219.313003,24,0
+222,People's Policy Project,2018,WP,1,0.018,1,0
+223,Peterson Institute for International Economics,2015,NYT,1,12.738231,34,0
+224,Peterson Institute for International Economics,2015,WP,1,12.738231,34,0
+225,Peterson Institute for International Economics,2017,NYT,1,14.090558,36,0
+226,Pew Research Center,2014,NYT,4,31.542447,10,0
+227,Pew Research Center,2014,WP,2,31.542447,10,0
+228,Pew Research Center,2014,WSJ,3,31.542447,10,0
+229,Pew Research Center,2015,NYT,3,34.28021,11,0
+230,Pew Research Center,2015,WP,3,34.28021,11,0
+231,Pew Research Center,2015,WSJ,1,34.28021,11,0
+232,Pew Research Center,2016,NYT,1,35.069976,12,0
+233,Pew Research Center,2016,WSJ,1,35.069976,12,0
+234,Pew Research Center,2017,NYT,5,40.101398,13,0
+235,Pew Research Center,2017,WP,7,40.101398,13,0
+236,Pew Research Center,2017,WSJ,4,40.101398,13,0
+237,Pew Research Center,2018,WP,3,36.781397,14,0
+238,Pew Research Center,2018,WSJ,2,36.781397,14,0
+239,Public Citizen,2014,NYT,1,4.765079,22,0
+240,Public Citizen,2014,WP,1,4.765079,22,0
+241,Public Citizen,2014,WSJ,2,4.765079,22,0
+242,Public Citizen,2015,NYT,4,5.934777,23,0
+243,Public Citizen,2015,WP,2,5.934777,23,0
+244,Public Citizen,2015,WSJ,3,5.934777,23,0
+245,Public Citizen,2016,WP,2,5.651797,24,0
+246,Public Citizen,2016,WSJ,2,5.651797,24,0
+247,Public Citizen,2017,NYT,2,6.242733,25,0
+248,Public Citizen,2017,WP,1,6.242733,25,0
+249,Public Citizen,2017,WSJ,1,6.242733,25,0
+250,Public Citizen,2018,WP,1,5.30497,26,0
+251,Public Citizen,2018,WSJ,1,5.30497,26,0
+252,R Street Institute,2017,NYT,1,6.853303,5,1
+253,RAND Corporation,2014,NYT,7,283.348223,66,0
+254,RAND Corporation,2014,WP,1,283.348223,66,0
+255,RAND Corporation,2015,NYT,3,312.647357,67,0
+256,RAND Corporation,2017,NYT,5,339.414517,69,0
+257,RAND Corporation,2018,NYT,3,364.067682,70,0
+258,RMI,2014,WSJ,2,15.32155,32,0
+259,RMI,2016,WSJ,1,29.31292,34,0
+260,RMI,2017,NYT,1,33.402821,35,0
+261,RMI,2018,NYT,1,39.847054,36,0
+262,RTI International,2015,WP,1,811.046142,57,0
+263,RTI International,2017,WP,1,971.083204,59,0
+264,RTI International,2017,WSJ,1,971.083204,59,0
+265,Rockefeller Institute of Government,2015,WSJ,1,4.362669,34,0
+266,Rockefeller Institute of Government,2018,WP,1,4.744707,37,0
+267,Roosevelt Institute,2015,NYT,1,6.446069,28,0
+268,Roosevelt Institute,2017,NYT,1,7.01393,30,0
+269,Santa Fe Institute,2015,NYT,1,11.629042,31,0
+270,Scripps Research Institute,2014,NYT,1,389.326389,90,0
+271,Scripps Research Institute,2014,WP,1,389.326389,90,0
+272,Scripps Research Institute,2014,WSJ,1,389.326389,90,0
+273,Scripps Research Institute,2018,WP,1,373.107791,94,0
+274,Scripps Research Institute,2018,WSJ,1,373.107791,94,0
+275,Social Science Research Council,2015,NYT,1,18.045814,92,0
+276,Tax Foundation,2014,WP,1,2.971778,77,0
+277,Tax Foundation,2015,WSJ,1,3.722271,78,0
+278,Tax Foundation,2016,NYT,1,4.178093,79,0
+279,Tax Foundation,2017,NYT,1,4.548092,80,0
+280,Tax Foundation,2017,WSJ,2,4.548092,80,0
+281,The Stimson Center,2016,NYT,1,5.082926,27,0
+282,Third Way,2015,WSJ,1,7.712417,10,0
+283,Third Way,2016,WSJ,1,7.184416,11,0
+284,Third Way,2017,WP,1,8.379387,12,0
+285,Third Way,2018,WP,1,8.24593,13,0
+286,Third Way,2018,WSJ,1,8.24593,13,0
+287,Thomas B. Fordham Institute,2018,WSJ,1,3.641791,11,0
+288,Urban Institute,2014,NYT,7,86.177167,46,0
+289,Urban Institute,2014,WP,7,86.177167,46,0
+290,Urban Institute,2014,WSJ,3,86.177167,46,0
+291,Urban Institute,2015,NYT,2,87.855636,47,0
+292,Urban Institute,2015,WP,3,87.855636,47,0
+293,Urban Institute,2015,WSJ,2,87.855636,47,0
+294,Urban Institute,2016,NYT,7,86.656466,48,0
+295,Urban Institute,2016,WP,9,86.656466,48,0
+296,Urban Institute,2016,WSJ,2,86.656466,48,0
+297,Urban Institute,2017,NYT,3,93.208019,49,0
+298,Urban Institute,2017,WP,8,93.208019,49,0
+299,Urban Institute,2017,WSJ,2,93.208019,49,0
+300,Urban Institute,2018,NYT,5,91.224579,50,0
+301,Urban Institute,2018,WP,6,91.224579,50,0
+302,Urban Institute,2018,WSJ,2,91.224579,50,0
+303,Washington Institute for Near East Policy,2018,NYT,1,13.418193,33,0
+304,Washington Policy Center,2015,WSJ,1,2.249164,18,0
+305,Woodrow Wilson International Center for Scholars,2018,WP,1,24.542658,50,0
+306,World Resources Institute,2014,WSJ,1,65.763955,32,0
+307,World Resources Institute,2015,NYT,1,77.539897,33,0
+308,World Resources Institute,2016,NYT,1,89.823844,34,0
+309,World Resources Institute,2016,WP,1,89.823844,34,0
