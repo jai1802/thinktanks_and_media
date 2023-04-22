@@ -2,30 +2,31 @@
 \setlength\tabcolsep{17pt}
 \begin{tabular}{@{\extracolsep{7pt}}lcccc}
 \toprule
-                    &\multicolumn{2}{c}{Number of Citations}    \\\cmidrule(lr){2-3}
-                    &\multicolumn{1}{c}{(1)}         &\multicolumn{1}{c}{(2)}         \\
+                    &\multicolumn{4}{c}{Number of Citations}                                                \\\cmidrule(lr){2-5}
+                    &\multicolumn{1}{c}{(1)}         &\multicolumn{1}{c}{(2)}         &\multicolumn{1}{c}{(3)}         &\multicolumn{1}{c}{(4)}         \\
 \midrule
-$\sqrt{Age}$        &      -8.105         &                     \\
-                    &   (4.51468)         &                     \\
+\large $\gamma_{2014}$&      -1.833         &      -1.587         &      -1.027         &      -0.839         \\
+                    &   (1.43829)         &   (1.43625)         &   (1.50256)         &   (1.49949)         \\
 \addlinespace
-$\log{Expenses}$    &       3.089\sym{**} &                     \\
-                    &   (1.03230)         &                     \\
+\large $\gamma_{2015}$&      -0.379         &      -0.273         &      -0.137         &     -0.0435         \\
+                    &   (1.35675)         &   (1.35571)         &   (1.49308)         &   (1.49529)         \\
 \addlinespace
-\large $\gamma_{2014}$&      -0.839         &      -1.027         \\
-                    &   (1.49949)         &   (1.50256)         \\
+\large $\gamma_{2017}$&      0.0615         &     -0.0102         &       0.478         &       0.396         \\
+                    &   (1.61941)         &   (1.61814)         &   (1.77525)         &   (1.77824)         \\
 \addlinespace
-\large $\gamma_{2015}$&     -0.0435         &      -0.137         \\
-                    &   (1.49529)         &   (1.49308)         \\
+\large $\gamma_{2018}$&     -0.0930         &     -0.0516         &       0.555         &       0.555         \\
+                    &   (1.81383)         &   (1.80203)         &   (1.81231)         &   (1.80230)         \\
 \addlinespace
-\large $\gamma_{2017}$&       0.396         &       0.478         \\
-                    &   (1.77824)         &   (1.77525)         \\
+$\sqrt{Age}$        &                     &      -7.940\sym{*}  &                     &      -8.105\sym{*}  \\
+                    &                     &   (4.51124)         &                     &   (4.51468)         \\
 \addlinespace
-\large $\gamma_{2018}$&       0.555         &       0.555         \\
-                    &   (1.80230)         &   (1.81231)         \\
+\small $\ln(1+Expenses)$&                     &       3.133\sym{**} &                     &       3.089\sym{**} \\
+                    &                     &   (1.03107)         &                     &   (1.03230)         \\
 \midrule
-Controls            &         Yes         &          No         \\
-Think Tank FE       &         Yes         &         Yes         \\
-Publication $\times$ Year FE&         Yes         &         Yes         \\
-N                   &        1577         &        1577         \\
+Controls            &          No         &         Yes         &          No         &         Yes         \\
+Conservative Treatment&         Yes         &         Yes         &         Yes         &         Yes         \\
+Libertarian Treatment&          No         &          No         &         Yes         &         Yes         \\
+F-stat              &       0.522         &       2.440         &       0.279         &       2.306         \\
+N                   &        1577         &        1577         &        1577         &        1577         \\
 \bottomrule
 \end{tabular}
