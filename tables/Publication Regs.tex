@@ -1,0 +1,32 @@
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\setlength\tabcolsep{17pt}
+\begin{tabular}{@{\extracolsep{7pt}}lcccc}
+\toprule
+                    &\multicolumn{3}{c}{Number of Citations}                          \\\cmidrule(lr){2-4}
+                    &\multicolumn{1}{c}{NYT}         &\multicolumn{1}{c}{WP}         &\multicolumn{1}{c}{WSJ}         \\
+\midrule
+$\sqrt{Age}$        &      -9.906\sym{**} &      -5.941         &      -7.067         \\
+                    &   (4.69356)         &   (6.50084)         &   (6.61698)         \\
+\addlinespace
+\small $\ln(1+Expenses)$&       2.210\sym{*}  &       3.250\sym{**} &       3.092\sym{*}  \\
+                    &   (1.25204)         &   (1.48848)         &   (1.86515)         \\
+\addlinespace
+\large $\gamma_{2014}$&      -1.296         &      -2.853         &      0.0316         \\
+                    &   (2.02482)         &   (2.56002)         &   (1.37021)         \\
+\addlinespace
+\large $\gamma_{2015}$&      -0.425         &      -1.510         &       1.158         \\
+                    &   (1.62037)         &   (2.42863)         &   (1.36486)         \\
+\addlinespace
+\large $\gamma_{2017}$&      -0.492         &       0.654         &       1.817         \\
+                    &   (1.60370)         &   (2.75026)         &   (1.38353)         \\
+\addlinespace
+\large $\gamma_{2018}$&       1.223         &       0.213         &       0.460         \\
+                    &   (1.86952)         &   (3.00394)         &   (1.95684)         \\
+\midrule
+Controls            &         Yes         &         Yes         &         Yes         \\
+Conservative Treatment&         Yes         &         Yes         &         Yes         \\
+Libertarian Treatment&         Yes         &         Yes         &         Yes         \\
+F-stat              &       0.45         &       0.59         &       0.54         \\
+N                   &         542         &         503         &         459         \\
+\bottomrule
+\end{tabular}

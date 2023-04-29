@@ -1,0 +1,32 @@
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\setlength\tabcolsep{15pt}
+\begin{tabular}{@{\extracolsep{7pt}}lcccc}
+\toprule
+                    &\multicolumn{4}{c}{Number of Citations}                                                \\\cmidrule(lr){2-5}
+                    &\multicolumn{1}{c}{Economics}         &\multicolumn{1}{c}{Education}         &\multicolumn{1}{c}{Health}         &\multicolumn{1}{c}{Politics}         \\
+\midrule
+$\sqrt{Age}$        &      -7.812\sym{***}&      -2.030         &      -0.332         &      -3.560         \\
+                    &   (2.16674)         &   (2.15757)         &   (2.35847)         &   (2.19861)         \\
+\addlinespace
+\small $\ln(1+Expenses)$&       1.213         &       0.349         &       0.990         &       0.543         \\
+                    &   (0.98887)         &   (0.80468)         &   (0.90522)         &   (0.74348)         \\
+\addlinespace
+\large $\gamma_{2014}$&      -0.886         &       0.321         &      -0.559         &      -0.466         \\
+                    &   (0.78771)         &   (0.69653)         &   (0.64237)         &   (0.69972)         \\
+\addlinespace
+\large $\gamma_{2015}$&      -0.109         &       0.123         &       0.251         &       0.523         \\
+                    &   (0.62474)         &   (0.66493)         &   (0.72152)         &   (0.68460)         \\
+\addlinespace
+\large $\gamma_{2017}$&      -0.520         &       0.804         &       0.198         &       0.151         \\
+                    &   (0.86615)         &   (0.70639)         &   (0.82822)         &   (0.83926)         \\
+\addlinespace
+\large $\gamma_{2018}$&      -0.702         &     -0.0805         &       0.412         &       0.431         \\
+                    &   (0.69039)         &   (0.61080)         &   (0.80834)         &   (0.75380)         \\
+\midrule
+Controls            &         Yes         &         Yes         &         Yes         &         Yes         \\
+Conservative Treatment&         Yes         &         Yes         &         Yes         &         Yes         \\
+Libertarian Treatment&         Yes         &         Yes         &         Yes         &         Yes         \\
+F-stat              &       0.50         &       0.60         &       1.33         &       0.90         \\
+N                   &         814         &         716         &         280         &         835         \\
+\bottomrule
+\end{tabular}
