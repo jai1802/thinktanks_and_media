@@ -1,5 +1,7 @@
 # thinktanks_and_media
 
+[Paper available here](https://github.com/jai1802/thinktanks_and_media/blob/master/Think_Tank_Citations.pdf)
+
 The independence of the media and its insulation from political activity is a critical
 characteristic of a healthy democracy. This paper assesses the independence of modern
 U.S. news and reporting by investigating the effect of shifts in political power on media
