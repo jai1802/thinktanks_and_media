@@ -1,5 +1,5 @@
 cd /Users/jai/Desktop/think_tanks_media
-insheet using "./data/master_panel.csv", comma clear
+insheet using "../data/panels/master_panel.csv", comma clear
 
 // encoding fixed effect variables
 encode pub, gen(n_pub)
